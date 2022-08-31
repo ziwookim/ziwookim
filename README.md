@@ -4,7 +4,7 @@
 💻 Skills
 
 
-<!-- Java --><img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=white"> <!-- Spring --><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- SpringBoot --><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-FFFFFF?style=for-the-badge&logo=jpa&logoColor=white">
+<!-- Java --><img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=black"> <!-- Spring --><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- SpringBoot --><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-FFFFFF?style=for-the-badge&logo=jpa&logoColor=black">
 
 <!-- HTML5 --><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- JavaScript --><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"> <!-- jQuery --><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <!-- AngularJS --><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
 
